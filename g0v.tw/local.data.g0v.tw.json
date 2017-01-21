@@ -1,0 +1,14 @@
+{
+    "domains": {
+        "local.data.g0v.tw": [
+            [
+                "CNAME",
+                "local-data-g0v-tw.herokuapp.com"
+            ]
+        ]
+    },
+    "repository": "oooooooo",
+    "maintainer": [
+        "oooooooo"
+    ]
+}

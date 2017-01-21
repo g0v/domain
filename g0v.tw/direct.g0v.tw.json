@@ -1,0 +1,14 @@
+{
+    "domains": {
+        "direct.g0v.tw": [
+            [
+                "CNAME",
+                "g0v.tw"
+            ]
+        ]
+    },
+    "repository": "oooooooo",
+    "maintainer": [
+        "oooooooo"
+    ]
+}

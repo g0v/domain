@@ -1,0 +1,14 @@
+{
+    "domains": {
+        "ris.g0v.tw": [
+            [
+                "CNAME",
+                "twdoorplates.herokuapp.com"
+            ]
+        ]
+    },
+    "repository": "oooooooo",
+    "maintainer": [
+        "oooooooo"
+    ]
+}

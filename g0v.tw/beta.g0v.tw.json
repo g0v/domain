@@ -1,0 +1,14 @@
+{
+    "domains": {
+        "beta.g0v.tw": [
+            [
+                "CNAME",
+                "chilijung.github.io"
+            ]
+        ]
+    },
+    "repository": "oooooooo",
+    "maintainer": [
+        "oooooooo"
+    ]
+}

@@ -1,0 +1,14 @@
+{
+    "domains": {
+        "smtp._domainkey.summit.g0v.tw": [
+            [
+                "TXT",
+                "k=rsa; p=MIGfMA0GCSqGSIb3DQEBAQUAA4GNADCBiQKBgQDJMBmSE\/RA5QQhag0iygQO0gtIy2YYvWNz1VmIDLJtyNcxImPgiPSTlpXvGtzulru0x9jLs5bDbwuLXByhPZybmb1Ct2wJccGzsYKvr9NCj9+9laFKy1DZNwpnQcYxbGjmWIPxVYO+IiUO8ZKRn\/fbQtq7cJDiLpJnYPZsp7w9jQIDAQAB"
+            ]
+        ]
+    },
+    "repository": "oooooooo",
+    "maintainer": [
+        "oooooooo"
+    ]
+}

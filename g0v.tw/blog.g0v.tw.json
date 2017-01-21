@@ -1,0 +1,14 @@
+{
+    "domains": {
+        "blog.g0v.tw": [
+            [
+                "CNAME",
+                "domains.logdown.com"
+            ]
+        ]
+    },
+    "repository": "oooooooo",
+    "maintainer": [
+        "oooooooo"
+    ]
+}

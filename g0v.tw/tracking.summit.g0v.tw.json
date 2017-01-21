@@ -1,0 +1,14 @@
+{
+    "domains": {
+        "tracking.summit.g0v.tw": [
+            [
+                "CNAME",
+                "api.elasticemail.com"
+            ]
+        ]
+    },
+    "repository": "oooooooo",
+    "maintainer": [
+        "oooooooo"
+    ]
+}

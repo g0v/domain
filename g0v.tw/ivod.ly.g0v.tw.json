@@ -1,0 +1,14 @@
+{
+    "domains": {
+        "ivod.ly.g0v.tw": [
+            [
+                "CNAME",
+                "cc.g0v.tw"
+            ]
+        ]
+    },
+    "repository": "oooooooo",
+    "maintainer": [
+        "oooooooo"
+    ]
+}

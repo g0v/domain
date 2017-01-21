@@ -1,0 +1,14 @@
+{
+    "domains": {
+        "sunshine.cy.g0v.tw": [
+            [
+                "CNAME",
+                "twcy.herokuapp.com"
+            ]
+        ]
+    },
+    "repository": "oooooooo",
+    "maintainer": [
+        "oooooooo"
+    ]
+}

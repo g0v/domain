@@ -1,0 +1,14 @@
+{
+    "domains": {
+        "newshelper.g0v.tw": [
+            [
+                "CNAME",
+                "kaohiung-wei-233594.middle2.me"
+            ]
+        ]
+    },
+    "repository": "oooooooo",
+    "maintainer": [
+        "oooooooo"
+    ]
+}

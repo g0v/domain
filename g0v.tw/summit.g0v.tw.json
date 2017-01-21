@@ -1,0 +1,26 @@
+{
+    "domains": {
+        "summit.g0v.tw": [
+            [
+                "CNAME",
+                "g0v.github.com"
+            ],
+            [
+                "MX",
+                "mxa.mailgun.org"
+            ],
+            [
+                "MX",
+                "mxb.mailgun.org"
+            ],
+            [
+                "TXT",
+                "v=spf1 a mx include:mailgun.org include:_spf.elasticemail.com include:sparkpostmail.com ~all"
+            ]
+        ]
+    },
+    "repository": "oooooooo",
+    "maintainer": [
+        "oooooooo"
+    ]
+}

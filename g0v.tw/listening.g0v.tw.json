@@ -1,0 +1,14 @@
+{
+    "domains": {
+        "listening.g0v.tw": [
+            [
+                "CNAME",
+                "listening.herokuapp.com"
+            ]
+        ]
+    },
+    "repository": "oooooooo",
+    "maintainer": [
+        "oooooooo"
+    ]
+}

@@ -1,0 +1,14 @@
+{
+    "domains": {
+        "disaster.tainan.g0v.tw": [
+            [
+                "CNAME",
+                "disaster.tainan.gov.tw"
+            ]
+        ]
+    },
+    "repository": "oooooooo",
+    "maintainer": [
+        "oooooooo"
+    ]
+}

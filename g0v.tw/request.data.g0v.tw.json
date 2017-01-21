@@ -1,0 +1,14 @@
+{
+    "domains": {
+        "request.data.g0v.tw": [
+            [
+                "CNAME",
+                "matsu-tsao-127002.hisokuapp.ronny.tw"
+            ]
+        ]
+    },
+    "repository": "oooooooo",
+    "maintainer": [
+        "oooooooo"
+    ]
+}

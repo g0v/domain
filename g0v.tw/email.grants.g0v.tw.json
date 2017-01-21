@@ -1,0 +1,14 @@
+{
+    "domains": {
+        "email.grants.g0v.tw": [
+            [
+                "CNAME",
+                "mailgun.org"
+            ]
+        ]
+    },
+    "repository": "oooooooo",
+    "maintainer": [
+        "oooooooo"
+    ]
+}

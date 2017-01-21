@@ -1,0 +1,14 @@
+{
+    "domains": {
+        "www.g0v.tw": [
+            [
+                "CNAME",
+                "g0v.github.com"
+            ]
+        ]
+    },
+    "repository": "oooooooo",
+    "maintainer": [
+        "oooooooo"
+    ]
+}

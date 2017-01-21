@@ -1,0 +1,14 @@
+{
+    "domains": {
+        "k1._domainkey.g0v.tw": [
+            [
+                "CNAME",
+                "dkim.mcsv.net"
+            ]
+        ]
+    },
+    "repository": "oooooooo",
+    "maintainer": [
+        "oooooooo"
+    ]
+}

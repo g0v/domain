@@ -1,0 +1,14 @@
+{
+    "domains": {
+        "7ow4x2xp75ajyufrn6bn4f45kghjkg4v._domainkey.g0v.tw": [
+            [
+                "CNAME",
+                "7ow4x2xp75ajyufrn6bn4f45kghjkg4v.dkim.amazonses.com"
+            ]
+        ]
+    },
+    "repository": "oooooooo",
+    "maintainer": [
+        "oooooooo"
+    ]
+}

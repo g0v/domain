@@ -1,0 +1,14 @@
+{
+    "domains": {
+        "ly.g0v.tw": [
+            [
+                "CNAME",
+                "lyg0vtw.jit.su"
+            ]
+        ]
+    },
+    "repository": "oooooooo",
+    "maintainer": [
+        "oooooooo"
+    ]
+}

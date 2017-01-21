@@ -1,0 +1,26 @@
+{
+    "domains": {
+        "grants.g0v.tw": [
+            [
+                "A",
+                "139.162.100.80"
+            ],
+            [
+                "MX",
+                "mxa.mailgun.org"
+            ],
+            [
+                "MX",
+                "mxb.mailgun.org"
+            ],
+            [
+                "TXT",
+                "v=spf1 include:mailgun.org ~all"
+            ]
+        ]
+    },
+    "repository": "oooooooo",
+    "maintainer": [
+        "oooooooo"
+    ]
+}

@@ -1,0 +1,14 @@
+{
+    "domains": {
+        "report.nat.g0v.tw": [
+            [
+                "CNAME",
+                "hualien-fei-579973.middle2.me"
+            ]
+        ]
+    },
+    "repository": "oooooooo",
+    "maintainer": [
+        "oooooooo"
+    ]
+}
