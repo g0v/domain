@@ -7,11 +7,11 @@
             ],
             [
                 "MX",
-                "mxa.mailgun.org"
+                "mxa.mailgun.org", 10
             ],
             [
                 "MX",
-                "mxb.mailgun.org"
+                "mxb.mailgun.org", 10
             ],
             [
                 "TXT",
