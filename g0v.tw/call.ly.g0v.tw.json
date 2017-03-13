@@ -1,0 +1,14 @@
+{
+    "domains": {
+        "call.ly.g0v.tw": [
+            [
+                "CNAME",
+                "callliwei.hopto.org"
+            ]
+        ]
+    },
+    "repository": "https://github.com/zhengda/callliwei",
+    "maintainer": [
+        "uriawang[at]gmail.com", "g0v slack: @fumi"
+    ]
+}
