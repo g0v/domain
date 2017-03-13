@@ -1,0 +1,11 @@
+{
+    "_global_" : {
+        "cloudflare_key": "admin only",
+        "cloudflare_mail": "g0v.domain@gmail.com"
+    },
+    "g0v.tw": {
+        "github_repo": "git@github.com:g0v/domain",
+        "github_path": "/g0v.tw",
+        "cloudflare_zoneid": "3fa749b6f61af0be8ca6bf316d5df1ed"
+    }
+}
