@@ -1,0 +1,20 @@
+{
+    "domains": {
+        "cofacts.g0v.tw": [
+            [
+                "A",
+                "139.162.87.253"
+            ]
+        ],
+        "api.cofacts.g0v.tw": [
+            [
+                "A",
+                "139.162.87.253"
+            ]
+        ]
+    },
+    "repository": "https://github.com/cofacts",
+    "maintainer": [
+        "@mrorz at slack"
+    ]
+}
