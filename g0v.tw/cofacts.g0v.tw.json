@@ -13,8 +13,8 @@
             ]
         ]
     },
-    "repository": "https://github.com/cofacts",
+    "repository": "https://github.com/cofacts/rumors-api",
     "maintainer": [
-        "@mrorz at slack"
+        "@mrorz at g0v-tw slack"
     ]
 }
