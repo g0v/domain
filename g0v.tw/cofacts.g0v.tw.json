@@ -1,0 +1,20 @@
+{
+    "domains": {
+        "cofacts.g0v.tw": [
+            [
+                "A",
+                "139.162.87.253"
+            ]
+        ],
+        "cofacts-api.g0v.tw": [
+            [
+                "A",
+                "139.162.87.253"
+            ]
+        ]
+    },
+    "repository": "https://github.com/cofacts/rumors-api",
+    "maintainer": [
+        "@mrorz at g0v-tw slack"
+    ]
+}
