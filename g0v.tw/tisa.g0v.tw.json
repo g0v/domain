@@ -2,8 +2,8 @@
     "domains": {
         "tisa.g0v.tw": [
             [
-                "A",
-                "162.243.145.68"
+                "CNAME",
+                "tisa-154051962.us-west-1.elb.amazonaws.com"
             ]
         ]
     },
