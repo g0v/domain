@@ -1,0 +1,18 @@
+{
+    "domains": {
+        "join.g0v.tw": [
+            [
+                "CNAME",
+                "301.ronny.tw"
+            ],
+            [
+                "TXT",
+                "301 http://join.g0v.today"
+            ]
+        ]
+    },
+    "repository": "https://github.com/rauchg/slackin",
+    "maintainer": [
+        "ly"
+    ]
+}
