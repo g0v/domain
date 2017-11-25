@@ -3,12 +3,13 @@
         "ly.g0v.tw": [
             [
                 "CNAME",
-                "lyg0vtw.jit.su"
+                "g0v.github.io"
             ]
         ]
     },
-    "repository": "oooooooo",
+    "repository": "https://github.com/g0v/ly.g0v.tw",
     "maintainer": [
-        "oooooooo"
+        "clkao",
+        "Ronny Wang"
     ]
 }

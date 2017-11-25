@@ -2,13 +2,13 @@
     "domains": {
         "api.ly.g0v.tw": [
             [
-                "A",
-                "106.186.29.188"
+                "CNAME",
+                "hsinchu-lu-790477.middle2.me"
             ]
         ]
     },
-    "repository": "oooooooo",
+    "repository": "https://github.com/g0v/api.ly-php",
     "maintainer": [
-        "oooooooo"
+        "Ronny Wang"
     ]
 }
