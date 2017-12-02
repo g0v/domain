@@ -2,13 +2,13 @@
     "domains": {
         "tisa.g0v.tw": [
             [
-                "CNAME",
-                "tisa-154051962.us-west-1.elb.amazonaws.com"
+                "A",
+                "162.243.145.68"
             ]
         ]
     },
-    "repository": "oooooooo",
+    "repository": "https://github.com/g0v/tisa-map",
     "maintainer": [
-        "oooooooo"
+        "shelling", "nchild", "ipa", "clkao", "ETBlue"
     ]
 }
