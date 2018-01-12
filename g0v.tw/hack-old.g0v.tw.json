@@ -1,9 +1,9 @@
 {
     "domains": {
-        "hack.g0v.tw": [
+        "hack-old.g0v.tw": [
             [
-                "A",
-                "35.197.156.202"
+                "CNAME",
+                "g0v.github.io"
             ]
         ]
     },
