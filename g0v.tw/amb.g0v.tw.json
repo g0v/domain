@@ -1,0 +1,14 @@
+{
+    "domains": {
+        "amb.g0v.tw": [
+            [
+                "CNAME",
+                "kinmen-tao-884344.middle2.me"
+            ]
+        ]
+    },
+    "repository": "https://github.com/g0v/ambassador/",
+    "maintainer": [
+        "caasi"
+    ]
+}
