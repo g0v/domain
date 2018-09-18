@@ -3,16 +3,12 @@
         "join.g0v.tw": [
             [
                 "CNAME",
-                "301.ronny.tw"
-            ],
-            [
-                "TXT",
-                "301 http://join.g0v.today"
+                "hsinchu-chou-614679.middle2.me"
             ]
         ]
     },
     "repository": "https://github.com/rauchg/slackin",
     "maintainer": [
-        "ly"
+        "ronnywang"
     ]
 }
