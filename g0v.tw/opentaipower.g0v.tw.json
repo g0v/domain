@@ -1,0 +1,14 @@
+{
+    "domains": {
+        "opentaipower.g0v.tw": [
+            [
+                "CNAME",
+                "http://128.199.147.185"
+            ]
+        ]
+    },
+    "repository": "https://github.com/jeff-free/ccw-taipower",
+    "maintainer": [
+        "jeffrey410469@gmail.com"
+    ]
+}
