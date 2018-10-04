@@ -2,7 +2,7 @@
     "domains": {
         "opentaipower.g0v.tw": [
             [
-                "CNAME",
+                "A",
                 "http://128.199.147.185"
             ]
         ]
