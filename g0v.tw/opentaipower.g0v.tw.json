@@ -2,7 +2,7 @@
     "domains": {
         "opentaipower.g0v.tw": [
             [
-                "A",
+                "CNAME",
                 "opentaipower.wanderers.tw"
             ]
         ]
