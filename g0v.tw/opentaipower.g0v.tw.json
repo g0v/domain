@@ -2,8 +2,8 @@
     "domains": {
         "opentaipower.g0v.tw": [
             [
-                "CNAME",
-                "opentaipower.wanderers.tw"
+                "A",
+                "128.199.147.185"
             ]
         ]
     },
