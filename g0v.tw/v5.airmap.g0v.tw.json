@@ -1,0 +1,14 @@
+{
+    "domains": {
+        "v5.airmap.g0v.tw": [
+            [
+                "A",
+                "112.116.59.198"
+            ]
+        ]
+    },
+    "repository": "https://github.com/Aspertw/airmap-frontend-v5",
+    "maintainer": [
+        "Lafudoci"
+    ]
+}
