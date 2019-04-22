@@ -7,5 +7,10 @@
         "github_repo": "git@github.com:g0v/domain",
         "github_path": "/g0v.tw",
         "cloudflare_zoneid": "3fa749b6f61af0be8ca6bf316d5df1ed"
+    },
+    "g0v.dev": {
+        "github_repo": "git@github.com:g0v/domain",
+        "github_path": "/g0v.dev",
+        "cloudflare_zoneid": "1be756bd6f07c028104385055e8bf80e"
     }
 }
