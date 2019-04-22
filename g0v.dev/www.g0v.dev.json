@@ -1,0 +1,14 @@
+{
+    "domains": {
+        "www.g0v.dev": [
+            [
+                "CNAME",
+                "ghs.googlehosted.com"
+            ]
+        ]
+    },
+    "repository": "oooooooo",
+    "maintainer": [
+        "oooooooo"
+    ]
+}
