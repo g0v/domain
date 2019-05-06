@@ -1,0 +1,14 @@
+{
+    "domains": {
+        "tax.nat.g0v.tw": [
+            [
+                "CNAME",
+                "mrorz.github.io"
+            ]
+        ]
+    },
+    "repository": "https://github.com/mrorz/unknown-website",
+    "maintainer": [
+        "MrOrz"
+    ]
+}
