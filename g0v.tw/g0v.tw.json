@@ -19,6 +19,17 @@
             ]
         ]
     },
+    "forwards": {
+        "g0v.tw": [
+            {"name": "clkao", "target": "clkao at clkao.org", "document": ""},
+            {"name": "talks", "target": "g0v-talks at googlegroups.com", "document": "https://g0v.hackmd.io/vYdTfaYeR7SnIU3zT5evOw?both#g0v-talks-%E6%BC%94%E8%AC%9B%E7%BE%A4%E7%B5%84"},
+            {"name": "jothon-news", "target": "g0v-jothon at googlegroups.com", "document": "https://g0v.hackmd.io/qvr3X9bcSUSReVjsWZOYJA"},
+            {"name": "jothon-organizers", "target": "g0v-jothon at googlegroups.com", "document": "https://g0v.hackmd.io/qvr3X9bcSUSReVjsWZOYJA"},
+            {"name": "intl", "target": "g0v-intl at googlegroups.com", "document": "https://g0v.hackmd.io/Ozy9SKwORXOIBFiGdSkLtw?both"}
+
+
+        ]
+    },
     "repository": "oooooooo",
     "maintainer": [
         "oooooooo"
