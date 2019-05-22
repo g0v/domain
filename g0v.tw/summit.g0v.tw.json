@@ -19,6 +19,15 @@
             ]
         ]
     },
+    "forwards": {
+        "summit.g0v.tw": [
+            {"name": "service-2018", "target": "g0v-summit-service-2018 at googlegroups.com", "document": ""},
+            {"name": "accounting-2018", "target": "g0v-summit-2018-accounting at googlegroups.com", "document": ""},
+            {"name": "partner-2018", "target": "g0v-summit-partner-2018 at googlegroups.com", "document": ""},
+            {"name": "program", "target": "g0v-summit-session-2016 at googlegroups.com", "document": ""},
+            {"name": "newsletter", "target": "g0v-summit-committee-2016 at googlegroups.com", "document": ""}
+        ]
+    },
     "repository": "https://github.com/g0v/summit.g0v.tw",
     "maintainer": [
         "oooooooo"
