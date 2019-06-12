@@ -13,7 +13,14 @@
                 "TXT",
                 "v=spf1 a mx include:mailgun.org ~all"
             ]
+        ],
+        "mx._domainkey.intl.g0v.tw": [
+            [
+                "TXT",
+                "k=rsa; p=MIGfMA0GCSqGSIb3DQEBAQUAA4GNADCBiQKBgQCc52rPL55gPfMRsT7DsVDq9o57GEoud9RCpL8/5RBnczCiy0UarGeVWP2aMTUJTouYqkCWYgyukW3iSjQRsVC8CQ7jAt7slwHDEJPbvIiR+hJGsw6v0b8rU4gpJF1IbRMhfu3nHBdnT4bPmPWVsmurSHxEPwGBStm8AXqsf2g6lwIDAQAB"
+            ]
         ]
+        
     },
     "forwards": {
         "intl.g0v.tw": [
