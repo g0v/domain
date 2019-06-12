@@ -17,6 +17,18 @@
                 "TXT",
                 "v=spf1 a mx include:mailgun.org include:_spf.elasticemail.com include:sparkpostmail.com ~all"
             ]
+        ],
+        "api._domainkey.summit.g0v.tw": [
+            [
+                "TXT",
+                "k=rsa;t=s;p=MIGfMA0GCSqGSIb3DQEBAQUAA4GNADCBiQKBgQCbmGbQMzYeMvxwtNQoXN0waGYaciuKx8mtMh5czguT4EZlJXuCt6V+l56mmt3t68FEX5JJ0q4ijG71BGoFRkl87uJi7LrQt1ZZmZCvrEII0YO4mp8sDLXC8g1aUAoi8TJgxq2MJqCaMyj5kAm3Fdy2tzftPCV\/lbdiJqmBnWKjtwIDAQAB"
+            ]
+        ],
+        "smtp._domainkey.summit.g0v.tw": [
+            [
+                "TXT",
+                "k=rsa; p=MIGfMA0GCSqGSIb3DQEBAQUAA4GNADCBiQKBgQDJMBmSE\/RA5QQhag0iygQO0gtIy2YYvWNz1VmIDLJtyNcxImPgiPSTlpXvGtzulru0x9jLs5bDbwuLXByhPZybmb1Ct2wJccGzsYKvr9NCj9+9laFKy1DZNwpnQcYxbGjmWIPxVYO+IiUO8ZKRn\/fbQtq7cJDiLpJnYPZsp7w9jQIDAQAB"
+            ]
         ]
     },
     "forwards": {

@@ -17,6 +17,36 @@
                 "TXT",
                 "v=spf1 include:mailgun.org include:servers.mcsv.net ~all"
             ]
+        ],
+        "7ow4x2xp75ajyufrn6bn4f45kghjkg4v._domainkey.g0v.tw": [
+            [
+                "CNAME",
+                "7ow4x2xp75ajyufrn6bn4f45kghjkg4v.dkim.amazonses.com"
+            ]
+        ],
+        "ckucpdwosxp24tee4cknnmpu6gs2qxsh._domainkey.g0v.tw": [
+            [
+                "CNAME",
+                "ckucpdwosxp24tee4cknnmpu6gs2qxsh.dkim.amazonses.com"
+            ]
+        ],
+        "k1._domainkey.g0v.tw": [
+            [
+                "CNAME",
+                "dkim.mcsv.net"
+            ]
+        ],
+        "mx._domainkey.g0v.tw": [
+            [
+                "TXT",
+                "k=rsa; p=MIGfMA0GCSqGSIb3DQEBAQUAA4GNADCBiQKBgQCp+GZ8CldYFGTbJfwCCRXSNWLHgjKkPimLPAOX7OEXxvY4eKsDDxwqL9vxBnsKXx+tUqeN0dn1g0YRdnt7OzTdb53hEMOWJ0PesdBIYM04VPfOKsZUW+BQRNDc772hcw2R8Xgj0W256ZOji5j2ZaZ8gCablz0dANdeFlTF+2coLQIDAQAB"
+            ]
+        ],
+        "pvzwxxyynqgbk3a62dckdxeaje7t4ysc._domainkey.g0v.tw": [
+            [
+                "CNAME",
+                "pvzwxxyynqgbk3a62dckdxeaje7t4ysc.dkim.amazonses.com"
+            ]
         ]
     },
     "forwards": {
