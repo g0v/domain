@@ -4,7 +4,25 @@
             [
                 "CNAME",
                 "g0v.github.io"
+            ],
+            [
+                "MX",
+                "mxa.mailgun.org", 10
+            ],
+            [
+                "MX",
+                "mxb.mailgun.org", 10
+            ],
+            [
+                "TXT",
+                "v=spf1 a mx include:mailgun.org ~all"
             ]
+        ]
+    },
+    "forwards": {
+        "jothon.g0v.tw": [
+            {"document": "https://g0v.hackmd.io/qvr3X9bcSUSReVjsWZOYJA?view"},
+            {"name": "bess", "target": "leechiasan.bess at gmail.com", "document": ""}
         ]
     },
     "repository": "https://github.com/g0v/jothon-net",
