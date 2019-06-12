@@ -1,0 +1,29 @@
+{
+    "domains": {
+        "intl.g0v.tw": [
+            [
+                "MX",
+                "mxa.mailgun.org", 10
+            ],
+            [
+                "MX",
+                "mxb.mailgun.org", 10
+            ],
+            [
+                "TXT",
+                "v=spf1 a mx include:mailgun.org ~all"
+            ]
+        ]
+    },
+    "forwards": {
+        "intl.g0v.tw": [
+            {"document": "https://g0v.hackmd.io/Ozy9SKwORXOIBFiGdSkLtw"},
+            {"name": "isabel", "target": "isabel.hou at gmail.com", "document": ""},
+            {"name": "pm5", "target": "pomin5 at gmail.com", "document": ""},
+            {"name": "ch", "target": "chihaoyo at gmail.com", "document": ""}
+        ]
+    },
+    "repository": "",
+    "maintainer": [
+    ]
+}
