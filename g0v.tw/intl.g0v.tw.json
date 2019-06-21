@@ -11,7 +11,7 @@
             ],
             [
                 "TXT",
-                "v=spf1 a mx include:mailgun.org ~all"
+                "v=spf1 a mx include:mailgun.org include:_spf.google.com ~all"
             ]
         ],
         "mx._domainkey.intl.g0v.tw": [
