@@ -7,8 +7,9 @@
             ]
         ]
     },
-    "repository": "oooooooo",
+    "repository": "https://github.com/g0v/twbudget",
     "maintainer": [
-        "oooooooo"
+        "clkao",
+        "Ronny Wang"
     ]
 }
