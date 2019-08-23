@@ -6,6 +6,18 @@
                 "139.162.87.253"
             ]
         ],
+        "zh.cofacts.g0v.tw": [
+            [
+                "CNAME",
+                "cofacts.g0v.tw"
+            ]
+        ],
+        "en.cofacts.g0v.tw": [
+            [
+                "A",
+                "cofacts.g0v.tw"
+            ]
+        ],
         "cofacts-api.g0v.tw": [
             [
                 "A",
