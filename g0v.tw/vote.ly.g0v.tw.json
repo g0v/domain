@@ -5,6 +5,12 @@
                 "CNAME",
                 "voting-guide.appspot.com"
             ]
+        ],
+        "nckpykw2ohtx.vote.ly.g0v.tw": [
+            [
+                "CNAME",
+                "gv-xkczh5nqqr6bvm.dv.googlehosted.com"
+            ]
         ]
     },
     "repository": "https://github.com/g0v/2020voting-guide",
