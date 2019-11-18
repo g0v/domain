@@ -2,13 +2,13 @@
     "domains": {
         "vote.ly.g0v.tw": [
             [
-                "A",
-                "139.162.16.227"
+                "CNAME",
+                "voting-guide.appspot.com"
             ]
         ]
     },
-    "repository": "https://github.com/g0v/twly-voter-guid",
+    "repository": "https://github.com/g0v/2020voting-guide",
     "maintainer": [
-        "thewayiam"
+        "@bangyuwen"
     ]
 }
