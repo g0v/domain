@@ -1,0 +1,15 @@
+{
+    "domains": {
+        "tw.g0v.tw": [
+            [
+                "CNAME",
+                "g0v.github.io"
+            ]
+        ]
+    },
+    "repository": "https://github.com/g0v/landing-page/",
+    "maintainer": [
+        "zbryikt"
+    ]
+}
+
