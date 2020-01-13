@@ -1,6 +1,6 @@
 {
     "domains": {
-        "tw.g0v.tw": [
+        "tw.g0v.dev": [
             [
                 "CNAME",
                 "g0v.github.io"
