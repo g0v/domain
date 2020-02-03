@@ -1,0 +1,18 @@
+{
+    "domains": {
+        "sch001.g0v.tw": [
+            [
+                "CNAME",
+                "301.ronny.tw"
+            ],
+            [
+                "TXT",
+                "301 https://g0v.hackmd.io/@jothon/sch001"
+            ]
+        ]
+    },
+    "repository": "https://g0v.hackmd.io/@jothon/sch001",
+    "maintainer": [
+        "jothon"
+    ]
+}
