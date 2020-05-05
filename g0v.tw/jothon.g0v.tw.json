@@ -23,6 +23,12 @@
                 "TXT",
                 "k=rsa; p=MIGfMA0GCSqGSIb3DQEBAQUAA4GNADCBiQKBgQC0Dft5/Z0JDF9j19CeTkSOPPTcmG/yxRm46k6f1KuVYcZ1wnyGgGqrhar7dtzqe1Vcpd74TSvVsfkxPn57kV1irmlzvXo5wDMRjPRPxyZvJS2XyKgQTWynBNEau9L1UCeXg1XrqyfzFZr1nT/A0MsTVIz0W2pSHK9VshyGtLkEhQIDAQAB"
             ]
+        ],
+        "kyp5f5em3yhm.jothon.g0v.tw": [
+            [
+                "CNAME",
+                "gv-7n6okinlleqlew.dv.googlehosted.com"
+            ]
         ]
     },
     "forwards": {
