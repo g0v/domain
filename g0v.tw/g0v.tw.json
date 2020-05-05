@@ -47,6 +47,12 @@
                 "CNAME",
                 "pvzwxxyynqgbk3a62dckdxeaje7t4ysc.dkim.amazonses.com"
             ]
+        ],
+        "ud3sf42agpde.g0v.tw": [
+            [
+                "CNAME",
+                "gv-rgdtracxrtyyif.dv.googlehosted.com"
+            ]
         ]
     },
     "forwards": {
