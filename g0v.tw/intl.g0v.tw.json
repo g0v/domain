@@ -3,11 +3,28 @@
         "intl.g0v.tw": [
             [
                 "MX",
-                "mxa.mailgun.org", 10
+                "aspmx3.googlemail.com",
+                10
             ],
             [
                 "MX",
-                "mxb.mailgun.org", 10
+                "aspmx2.googlemail.com",
+                10
+            ],
+            [
+                "MX",
+                "alt2.aspmx.l.google.com",
+                5
+            ],
+            [
+                "MX",
+                "alt1.aspmx.l.google.com",
+                5
+            ],
+            [
+                "MX",
+                "aspmx.l.google.com",
+                1
             ],
             [
                 "TXT",
