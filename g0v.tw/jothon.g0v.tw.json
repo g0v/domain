@@ -28,7 +28,8 @@
     "forwards": {
         "jothon.g0v.tw": [
             {"document": "https://g0v.hackmd.io/qvr3X9bcSUSReVjsWZOYJA?view"},
-            {"name": "bess", "target": "leechiasan.bess at gmail.com", "document": ""}
+            {"name": "bess", "target": "leechiasan.bess at gmail.com", "document": ""},
+            {"name": "ichieh", "target": "chiehg0v at gmail dot com", "document": ""}
         ]
     },
     "repository": "https://github.com/g0v/jothon-net",
