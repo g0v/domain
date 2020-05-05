@@ -5,11 +5,11 @@
                 "CNAME",
                 "g0v.github.io"
             ],
-            [ "MX", "ASPMX.L.GOOGLE.COM.", 1 ],
-            [ "MX", "ALT1.ASPMX.L.GOOGLE.COM.", 5 ],
-            [ "MX", "ALT2.ASPMX.L.GOOGLE.COM.", 5 ],
-            [ "MX", "ASPMX2.GOOGLEMAIL.COM.", 10 ],
-            [ "MX", "ASPMX3.GOOGLEMAIL.COM.", 10 ]
+            [ "MX", "aspmx.l.google.com.", 1 ],
+            [ "MX", "alt1.aspmx.l.google.com.", 5 ],
+            [ "MX", "alt2.aspmx.l.google.com.", 5 ],
+            [ "MX", "aspmx2.googlemail.com.", 10 ],
+            [ "MX", "aspmx3.googlemail.com.", 10 ]
             [
                 "TXT",
                 "v=spf1 a mx include:mailgun.org include:_spf.google.com ~all"
