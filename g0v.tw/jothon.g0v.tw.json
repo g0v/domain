@@ -5,11 +5,31 @@
                 "CNAME",
                 "g0v.github.io"
             ],
-            [ "MX", "aspmx.l.google.com.", 1 ],
-            [ "MX", "alt1.aspmx.l.google.com.", 5 ],
-            [ "MX", "alt2.aspmx.l.google.com.", 5 ],
-            [ "MX", "aspmx2.googlemail.com.", 10 ],
-            [ "MX", "aspmx3.googlemail.com.", 10 ],
+            [
+                "MX",
+                "aspmx3.googlemail.com",
+                10
+            ],
+            [
+                "MX",
+                "aspmx2.googlemail.com",
+                10
+            ],
+            [
+                "MX",
+                "alt2.aspmx.l.google.com",
+                5
+            ],
+            [
+                "MX",
+                "alt1.aspmx.l.google.com",
+                5
+            ],
+            [
+                "MX",
+                "aspmx.l.google.com",
+                1
+            ],
             [
                 "TXT",
                 "v=spf1 a mx include:mailgun.org include:_spf.google.com ~all"
@@ -30,10 +50,24 @@
     },
     "forwards": {
         "jothon.g0v.tw": [
-            {"document": "https://g0v.hackmd.io/qvr3X9bcSUSReVjsWZOYJA?view"},
-            {"name": "bess", "target": "leechiasan.bess at gmail.com", "document": ""},
-            {"name": "ichieh", "target": "chiehg0v at gmail dot com", "document": ""},
-            {"name": "seangau", "target": "rrtw0627 at gmail dot com", "document": ""}
+            {
+                "document": "https://g0v.hackmd.io/qvr3X9bcSUSReVjsWZOYJA?view"
+            },
+            {
+                "name": "bess",
+                "target": "leechiasan.bess at gmail.com",
+                "document": ""
+            },
+            {
+                "name": "ichieh",
+                "target": "chiehg0v at gmail dot com",
+                "document": ""
+            },
+            {
+                "name": "seangau",
+                "target": "rrtw0627 at gmail dot com",
+                "document": ""
+            }
         ]
     },
     "repository": "https://github.com/g0v/jothon-net",
