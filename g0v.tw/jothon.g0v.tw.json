@@ -9,7 +9,7 @@
             [ "MX", "alt1.aspmx.l.google.com.", 5 ],
             [ "MX", "alt2.aspmx.l.google.com.", 5 ],
             [ "MX", "aspmx2.googlemail.com.", 10 ],
-            [ "MX", "aspmx3.googlemail.com.", 10 ]
+            [ "MX", "aspmx3.googlemail.com.", 10 ],
             [
                 "TXT",
                 "v=spf1 a mx include:mailgun.org include:_spf.google.com ~all"
