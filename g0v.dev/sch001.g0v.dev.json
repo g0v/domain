@@ -1,0 +1,14 @@
+{
+    "domains": {
+        "sch001.g0v.dev": [
+            [
+                "CNAME",
+                "g0v.github.io"
+            ]
+        ]
+    },
+    "repository": "https://github.com/g0v/sch001-net",
+    "maintainer": [
+        "@SeanGau"
+    ]
+}
