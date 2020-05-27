@@ -56,6 +56,7 @@
     },
     "forwards": {
         "summit.g0v.tw": [
+            {"name": "host", "target": "g0v-summit-host at googlegroups.com", "document": ""},
             {"name": "service-2018", "target": "g0v-summit-service-2018 at googlegroups.com", "document": ""},
             {"name": "accounting-2018", "target": "g0v-summit-2018-accounting at googlegroups.com", "document": ""},
             {"name": "partner-2018", "target": "g0v-summit-partner-2018 at googlegroups.com", "document": ""},
