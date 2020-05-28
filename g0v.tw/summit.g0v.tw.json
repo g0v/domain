@@ -56,7 +56,8 @@
     },
     "forwards": {
         "summit.g0v.tw": [
-            {"name": "host", "target": "g0v-summit-host at googlegroups.com", "document": ""},
+            {"name": "host", "target": "g0v-summit-2020-host at googlegroups.com", "document": "https://g0v.hackmd.io/c_mPhOsZQC6FHJiMl3BIhw"},
+            {"name": "finance", "target": "g0v-summit-2020-finance at googlegroups.com", "document": "https://g0v.hackmd.io/c_mPhOsZQC6FHJiMl3BIhw"},
             {"name": "service-2018", "target": "g0v-summit-service-2018 at googlegroups.com", "document": ""},
             {"name": "accounting-2018", "target": "g0v-summit-2018-accounting at googlegroups.com", "document": ""},
             {"name": "partner-2018", "target": "g0v-summit-partner-2018 at googlegroups.com", "document": ""},
