@@ -1,0 +1,28 @@
+{
+    "domains": {
+        "propose.summit2020.g0v.tw": [
+            [
+                "A",
+                "35.194.129.213"
+            ]
+        ],
+        "api.summit2020.g0v.tw": [
+            [
+                "A",
+                "35.194.129.213"
+            ]
+        ],
+        "discuss.summit2020.g0v.tw": [
+            [
+                "A",
+                "35.194.129.213"
+            ]
+        ]
+    },
+    "repository": "https://github.com/g0v/summit_proposal",
+    "maintainer": [
+        "tnstiger",
+        "lai",
+        "ddio"
+    ]
+}
