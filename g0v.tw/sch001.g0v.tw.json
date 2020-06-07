@@ -2,8 +2,8 @@
     "domains": {
         "sch001.g0v.tw": [
             [
-                "CNAME",
-                "grantdash.io"
+                "A",
+                "34.80.243.157"
             ]
         ]
     },
