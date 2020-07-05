@@ -17,6 +17,34 @@
                 "A",
                 "35.194.129.213"
             ]
+        ],
+        "summit2020.g0v.tw":[
+            [
+                "TXT",
+                "v=spf1 include:mailgun.org ~all"
+            ],
+            [
+                "MX",
+                "mxa.mailgun.org"
+                10
+            ],
+            [
+                "MX",
+                "mxb.mailgun.org",
+                10
+            ]
+        ],
+        "email.summit2020.g0v.tw":[
+            [
+                "CNAME",
+                "mailgun.org"
+            ]
+        ],
+        "smtp._domainkey.summit2020.g0v.tw":[
+            [
+                "TXT",
+                "k=rsa; p=MIGfMA0GCSqGSIb3DQEBAQUAA4GNADCBiQKBgQC+XjeSPX7bOkN0BBOh3R++E3l88ABjcMj8CNNXSAcXxdqKVvUSBQUdkdm9unU3gN64lACkbG8DdTBdwakthVb8kXEL3y0AHrGvhV2yRbWxRLWmY/7vkTX5M6YvqHVG2WQYDlpMXYKvIU04WjCUKCpbJuPAcxk9KxMIezcLHAELDwIDAQAB"
+            ]
         ]
     },
     "repository": "https://github.com/g0v/summit_proposal",
