@@ -4,18 +4,6 @@
             [
                 "A",
                 "139.162.100.80"
-            ],
-            [
-                "MX",
-                "mxa.mailgun.org", 10
-            ],
-            [
-                "MX",
-                "mxb.mailgun.org", 10
-            ],
-            [
-                "TXT",
-                "v=spf1 include:mailgun.org ~all"
             ]
         ]
     },
