@@ -33,6 +33,28 @@
             [
                 "TXT",
                 "v=spf1 a mx include:mailgun.org include:_spf.google.com ~all"
+            ],
+            [
+                "TXT",
+                "RAM2Gx2hxZN71bSAP5h5TJAUVpdYJvW2lSTih1Auit8="
+            ]
+        ],
+        "gmolgxmobgad2iswulgg2c6moulf245z._domainkey.jothon.g0v.tw": [
+            [
+                "CNAME",
+                "gmolgxmobgad2iswulgg2c6moulf245z.dkim.amazonses.com"
+            ]
+        ],
+        "cq64d7lcwxifiugfm4gg7wm5gpg3dk7t._domainkey.jothon.g0v.tw": [
+            [
+                "CNAME",
+                "cq64d7lcwxifiugfm4gg7wm5gpg3dk7t.dkim.amazonses.com"
+            ]
+        ],
+        "qdww2wkgrpszmawu7m4jmmj7h6ir57sa._domainkey.jothon.g0v.tw": [
+            [
+                "CNAME",
+                "qdww2wkgrpszmawu7m4jmmj7h6ir57sa.dkim.amazonses.com"
             ]
         ],
         "mx._domainkey.jothon.g0v.tw": [
