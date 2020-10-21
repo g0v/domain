@@ -68,6 +68,12 @@
                 "CNAME",
                 "gv-7n6okinlleqlew.dv.googlehosted.com"
             ]
+        ],
+        "google._domainkey.jothon.g0v.tw": [
+            [
+                "TXT",
+                "v=DKIM1; k=rsa; p=MIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEAnWTCtz2ClZ6PHkGQ8m+u241KJWzRX+OtxbdbOLLO0cFkgifiTXRgoxaSyxAnCHEtXdwqCE0ThZKaY5Q607orxdV+O1BMTqwkIiidahdHM9e/eYVe+q19cnREFNfFrU2Mmr8b3MeAmWG3zm8TQvqxU63eanppUhXJNezn8RavZT4X5mIINEcZQSGJJ9hqY7OWSPUiNI23W8i5WR4XPZq9d37aJIZ0kK/ObKR7C5mzgpFWclyNumxErA+KG4XGpmAqIWTELwLXOJPvOYB1OvQxiyUxm836iUHH7Kxka7w66N4I0NBs1Dht/jAJL8y1xMncBx1qHKV0u6m0xGJd6AuHfwIDAQAB"
+            ]
         ]
     },
     "forwards": {
