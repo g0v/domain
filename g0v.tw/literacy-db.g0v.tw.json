@@ -1,0 +1,18 @@
+{
+    "domains": {
+        "www.g0v.tw": [
+            [
+                "CNAME",
+                "301.ronny.tw"
+            ],
+            [
+                "TXT",
+                "301 https://g0v.tw/*"
+            ]
+        ]
+    },
+    "repository": "https://github.com/g0v/g0v.tw",
+    "maintainer": [
+        "oooooooo"
+    ]
+}
