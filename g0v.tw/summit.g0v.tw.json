@@ -58,7 +58,8 @@
             {"name": "program", "target": "g0v-summit-session-2016 at googlegroups.com", "document": ""},
             {"name": "programming", "target": "g0v-summit-2020-programming at googlegroups.com", "document": ""},
             {"name": "wg", "target": "g0v-summit-2020-wg at googlegroups.com", "document": ""},
-            {"name": "newsletter", "target": "g0v-summit-committee-2016 at googlegroups.com", "document": ""}
+            {"name": "newsletter", "target": "g0v-summit-committee-2016 at googlegroups.com", "document": ""},
+            {"name": "coc", "target": "g0v-summit-2020-coc at googlegroups.com", "document": "https://g0v.hackmd.io/c_mPhOsZQC6FHJiMl3BIhw"}
         ]
     },
     "repository": "https://github.com/g0v/summit.g0v.tw",
