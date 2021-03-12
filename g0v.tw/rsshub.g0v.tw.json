@@ -1,0 +1,14 @@
+{
+    "domains": {
+        "rsshub.g0v.tw": [
+            [
+                "CNAME",
+                "marine-pepper-ldcvc3w40cybitbv2z9d9jay.herokudns.com"
+            ]
+        ]
+    },
+    "repository": "https://github.com/yellowsoar/RSSHub",
+    "maintainer": [
+        "yellowsoar"
+    ]
+}
