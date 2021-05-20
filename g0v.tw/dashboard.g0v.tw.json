@@ -1,0 +1,14 @@
+{
+    "domains": {
+        "dashboard.g0v.tw": [
+            [
+                "CNAME",
+                "yunlin-teng-437911.middle2.me"
+            ]
+        ]
+    },
+    "repository": "https://github.com/g0v/g0v-dashboard",
+    "maintainer": [
+        "@SeanGau"
+    ]
+}
