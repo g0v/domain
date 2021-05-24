@@ -3,7 +3,11 @@
         "join.g0v.tw": [
             [
                 "CNAME",
-                "hsinchu-chou-614679.middle2.me"
+                "301.ronny.tw"
+            ],
+            [
+                "TXT",
+                "301 https://join.slack.com/t/g0v-tw/shared_invite/zt-qjl2m8bb-3thBbec_wWqIVbxbF8ck8g"
             ]
         ]
     },
