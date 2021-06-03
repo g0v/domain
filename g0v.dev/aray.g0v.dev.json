@@ -1,0 +1,26 @@
+{
+    "domains": {
+        "stg.aray.g0v.dev": [
+            [
+                "CNAME",
+                "staging.dpw6pfmb7twme.amplifyapp.com"
+            ]
+        ],
+        "tst.aray.g0v.dev": [
+            [
+                "CNAME",
+                "test.dpw6pfmb7twme.amplifyapp.com"
+            ]
+        ],
+        "dev.aray.g0v.dev": [
+            [
+                "CNAME",
+                "develop.dpw6pfmb7twme.amplifyapp.com"
+            ]
+        ]
+    },
+    "repository": "https://github.com/g0v/aray",
+    "maintainer": [
+        "chunyenHuang"
+    ]
+}
