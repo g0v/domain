@@ -3,19 +3,19 @@
         "stg.aray.g0v.dev": [
             [
                 "CNAME",
-                "staging.dpw6pfmb7twme.amplifyapp.com"
+                "d290qlpd6qvecc.cloudfront.net"
             ]
         ],
         "tst.aray.g0v.dev": [
             [
                 "CNAME",
-                "test.dpw6pfmb7twme.amplifyapp.com"
+                "d290qlpd6qvecc.cloudfront.net"
             ]
         ],
         "dev.aray.g0v.dev": [
             [
                 "CNAME",
-                "develop.dpw6pfmb7twme.amplifyapp.com"
+                "d290qlpd6qvecc.cloudfront.net"
             ]
         ],
         "_042c0d6e250cdee230e43ac1d3a456f4.aray.g0v.dev": [
