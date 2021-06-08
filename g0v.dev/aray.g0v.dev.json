@@ -17,6 +17,12 @@
                 "CNAME",
                 "develop.dpw6pfmb7twme.amplifyapp.com"
             ]
+        ],
+        "_042c0d6e250cdee230e43ac1d3a456f4.aray.g0v.dev": [
+            [
+                "CNAME",
+                "_17750468a5e8384a566a0f0d5bb51ba9.xrchbtpdjs.acm-validations.aws."
+            ]
         ]
     },
     "repository": "https://github.com/g0v/aray",
