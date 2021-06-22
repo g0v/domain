@@ -1,0 +1,14 @@
+{
+  "domains": {
+      "toedu.g0v.tw": [
+          [
+              "CNAME",
+              "20b05d7a-db59-43ac-b363-71988ea3c298.repl.co"
+          ]
+      ]
+  },
+  "repository": "https://github.com/Sax-Ted/TOEDU",
+  "maintainer": [
+      "Sax-Ted"
+  ]
+}
