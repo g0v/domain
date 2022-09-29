@@ -1,0 +1,14 @@
+{
+    "domains": {
+        "badge.g0v.tw": [
+            [
+                "CNAME",
+                "badge.g0v.ronny.tw"
+            ]
+        ]
+    },
+    "repository": "https://github.com/ronnywang/badge.g0v.tw",
+    "maintainer": [
+        "ronnywang"
+    ]
+}
