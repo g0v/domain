@@ -1,0 +1,14 @@
+{
+    "domains": {
+        "da0.g0v.tw": [
+            [
+                "CNAME",
+                "da0.mystrikingly.com"
+            ]
+        ]
+    },
+    "repository": "https://g0v.hackmd.io/@jmqqBzEuTfyhzhylQiNAgw/rkmURiDaq/https%3A%2F%2Fg0v.hackmd.io%2F%40noahyeh%2FH1sX3DkZs",
+    "maintainer": [
+        "n0ah", "hcchien", "isabelhou"
+    ]
+}
