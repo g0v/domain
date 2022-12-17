@@ -1,0 +1,14 @@
+{
+    "domains": {
+        "timeline.g0v.tw": [
+            [
+                "CNAME",
+                "stimim.github.io"
+            ]
+        ]
+    },
+    "repository": "https://github.com/Stimim/g0v-timeline",
+    "maintainer": [
+        "Stimim"
+    ]
+}
