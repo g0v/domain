@@ -1,0 +1,14 @@
+{
+    "domains": {
+        "arm0ry.g0v.tw": [
+            [
+                "CNAME",
+                "arm0ry.onrender.com"
+            ]
+        ]
+    },
+    "repository": "https://github.com/arm0ry",
+    "maintainer": [
+        "audsssy"
+    ]
+}
