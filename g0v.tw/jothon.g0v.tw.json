@@ -76,16 +76,6 @@
                 "document": "https://g0v.hackmd.io/qvr3X9bcSUSReVjsWZOYJA?view"
             },
             {
-                "name": "bess",
-                "target": "leechiasan.bess at gmail.com",
-                "document": ""
-            },
-            {
-                "name": "ichieh",
-                "target": "chiehg0v at gmail dot com",
-                "document": ""
-            },
-            {
                 "name": "analeigh",
                 "target": "analeigh dot jothon at gmail dot com",
                 "document": ""
@@ -96,6 +86,10 @@
             },
             {
                 "name": "tiff",
+                "target": "google suite"
+            },
+            {
+                "name": "yihuang",
                 "target": "google suite"
             }
         ]
