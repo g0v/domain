@@ -1,0 +1,15 @@
+{
+    "domains": {
+        "summit2024.g0v.tw": [
+            [
+                "A",
+                "34.80.243.157"
+            ]
+        ]
+    },
+    "repository": "https://github.com/g0v/summit2024",
+    "document": "https://g0v.hackmd.io/@summit2024/book/",
+    "maintainer": [
+        "SeanGau"
+    ]
+}
