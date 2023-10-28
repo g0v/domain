@@ -1,0 +1,14 @@
+{
+    "domains": {
+        "g0v.us": [
+            [
+                "CNAME",
+                "git.github.io"
+            ]
+        ]
+    },
+    "repository": "https://github.com/g0v/g0v.asia",
+    "maintainer": [
+        "zbryikt"
+    ]
+}
