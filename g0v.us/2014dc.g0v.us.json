@@ -1,0 +1,20 @@
+{
+    "domains": {
+        "2014dc.g0v.us": [
+            [
+                "CNAME",
+                "git.github.io"
+            ]
+        ],
+        "_github-pages-challenge-g0v.2014dc.g0v.us": [
+            [
+                "TXT",
+                "87719162ab1f54c30a04e30f4f5ff9"
+            ]
+        ]
+    },
+    "repository": "https://github.com/g0v/2014dc.g0v.us",
+    "maintainer": [
+        "dwhuang"
+    ]
+}
