@@ -50,16 +50,9 @@
     },
     "forwards": {
         "summit.g0v.tw": [
-            {"name": "host", "target": "g0v-summit-2024-host at googlegroups.com", "document": "https://g0v.hackmd.io/c_mPhOsZQC6FHJiMl3BIhw"},
-            {"name": "finance", "target": "g0v-summit-2024-finance at googlegroups.com", "document": "https://g0v.hackmd.io/c_mPhOsZQC6FHJiMl3BIhw"},
-            {"name": "service-2018", "target": "g0v-summit-service-2018 at googlegroups.com", "document": ""},
-            {"name": "accounting-2018", "target": "g0v-summit-2018-accounting at googlegroups.com", "document": ""},
-            {"name": "partner-2018", "target": "g0v-summit-partner-2018 at googlegroups.com", "document": ""},
-            {"name": "program", "target": "g0v-summit-2024-program at googlegroups.com", "document": "https://g0v.hackmd.io/c_mPhOsZQC6FHJiMl3BIhw"},
-            {"name": "programming", "target": "g0v-summit-2020-programming at googlegroups.com", "document": ""},
-            {"name": "wg", "target": "g0v-summit-2020-wg at googlegroups.com", "document": ""},
-            {"name": "newsletter", "target": "g0v-summit-committee-2016 at googlegroups.com", "document": ""},
-            {"name": "coc", "target": "g0v-summit-2020-coc at googlegroups.com", "document": "https://g0v.hackmd.io/c_mPhOsZQC6FHJiMl3BIhw"},
+            {"name": "host", "target": "g0v-summit-2024-host at googlegroups.com", "document": "https://g0v.hackmd.io/hsRMnnIMRZyhWE9pw6n6fg#Google-Groups-%E8%A8%AD%E5%AE%9A"},
+            {"name": "finance", "target": "g0v-summit-2024-finance at googlegroups.com", "document": "https://g0v.hackmd.io/hsRMnnIMRZyhWE9pw6n6fg#Google-Groups-%E8%A8%AD%E5%AE%9A"},
+            {"name": "program", "target": "g0v-summit-2024-program at googlegroups.com", "document": "https://g0v.hackmd.io/hsRMnnIMRZyhWE9pw6n6fg#Google-Groups-%E8%A8%AD%E5%AE%9A"},
             {"name": "media", "target": "g0v-summit-2024-media at googlegroups.com", "document": "https://g0v.hackmd.io/c_mPhOsZQC6FHJiMl3BIhw"},
             {"name": "sponsor", "target": "g0v-summit-2024-sponsor at googlegroups.com", "document": "https://g0v.hackmd.io/c_mPhOsZQC6FHJiMl3BIhw"}
         ]
