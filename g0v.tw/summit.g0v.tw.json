@@ -35,10 +35,28 @@
                 "v=spf1 a mx include:_spf.elasticemail.com include:sparkpostmail.com ~all"
             ]
         ],
+        "_dmarc.summit.g0v.tw": [
+            [
+                "TXT",
+                "v=DMARC1; p=none;"
+            ]
+        ],
         "api._domainkey.summit.g0v.tw": [
             [
                 "TXT",
                 "k=rsa;t=s;p=MIGfMA0GCSqGSIb3DQEBAQUAA4GNADCBiQKBgQCbmGbQMzYeMvxwtNQoXN0waGYaciuKx8mtMh5czguT4EZlJXuCt6V+l56mmt3t68FEX5JJ0q4ijG71BGoFRkl87uJi7LrQt1ZZmZCvrEII0YO4mp8sDLXC8g1aUAoi8TJgxq2MJqCaMyj5kAm3Fdy2tzftPCV\/lbdiJqmBnWKjtwIDAQAB"
+            ]
+        ],
+        "k2._domainkey.summit.g0v.tw": [
+            [
+                "CNAME",
+                "dkim2.mcsv.net"
+            ]
+        ],
+        "k3._domainkey.summit.g0v.tw": [
+            [
+                "CNAME",
+                "dkim3.mcsv.net"
             ]
         ],
         "r6w5sa4fbgiz.summit.g0v.tw": [
