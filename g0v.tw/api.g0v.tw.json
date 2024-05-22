@@ -1,0 +1,14 @@
+{
+    "domains": {
+        "api.g0v.tw": [
+            [
+                "CNAME",
+                "hualien-ho-902327.middle2.me"
+            ]
+        ]
+    },
+    "repository": "https://github.com/g0v/api.g0v.tw",
+    "maintainer": [
+        "ronnywang"
+    ]
+}
