@@ -9,6 +9,16 @@
                 "TXT",
                 "301 https://g0v.tw"
             ]
+        ],
+        "www.g0v.dev": [
+            [
+                "CNAME",
+                "301.ronny.tw"
+            ],
+            [
+                "TXT",
+                "301 https://g0v.tw"
+            ]
         ]
     },
     "repository": "oooooooo",
