@@ -1,0 +1,14 @@
+{
+    "domains": {
+        "165.g0v.tw": [
+            [
+                "CNAME",
+                "open165.pages.dev"
+            ]
+        ]
+    },
+    "repository": "https://github.com/cofacts/open165",
+    "maintainer": [
+        "johnson@cofacts.tw"
+    ]
+}
