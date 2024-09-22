@@ -3,11 +3,11 @@
         "165.g0v.tw": [
             [
                 "CNAME",
-                "open165.pages.dev"
+                "site-9hb.pages.dev"
             ]
         ]
     },
-    "repository": "https://github.com/cofacts/open165",
+    "repository": "https://github.com/open165/site",
     "maintainer": [
         "johnson@cofacts.tw"
     ]
