@@ -2,12 +2,16 @@
     "domains": {
         "airmap.g0v.tw": [
             [
-                "A",
-                "125.229.105.12"
+                "CNAME",
+                "301.ronny.tw"
+            ],
+            [
+                "TXT",
+                "301 https://beta.hackfoldr.org/g0vairmap"
             ]
         ]
     },
-    "repository": "https://github.com/Aspertw/airmap-frontend-v5",
+    "repository": "https://beta.hackfoldr.org/g0vairmap",
     "maintainer": [
         "Lafudoci"
     ]
