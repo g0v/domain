@@ -1,0 +1,14 @@
+{
+    "domains": {
+        "transcribe.g0v.tw": [
+            [
+                "A",
+                "139.162.86.135"
+            ]
+        ]
+    },
+    "repository": "https://github.com/g0v/realtime_transcribe",
+    "maintainer": [
+        "@SeanGau"
+    ]
+}
