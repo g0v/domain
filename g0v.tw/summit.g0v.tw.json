@@ -68,13 +68,9 @@
     },
     "forwards": {
         "summit.g0v.tw": [
-            {"name": "host", "target": "g0v-summit-2024-host at googlegroups.com", "document": "https://g0v.hackmd.io/hsRMnnIMRZyhWE9pw6n6fg#Google-Groups-%E8%A8%AD%E5%AE%9A"},
-            {"name": "finance", "target": "g0v-summit-2024-finance at googlegroups.com", "document": "https://g0v.hackmd.io/hsRMnnIMRZyhWE9pw6n6fg#Google-Groups-%E8%A8%AD%E5%AE%9A"},
-            {"name": "program", "target": "g0v-summit-2024-program at googlegroups.com", "document": "https://g0v.hackmd.io/hsRMnnIMRZyhWE9pw6n6fg#Google-Groups-%E8%A8%AD%E5%AE%9A"},
-            {"name": "media", "target": "g0v-summit-2024-media at googlegroups.com", "document": "https://g0v.hackmd.io/c_mPhOsZQC6FHJiMl3BIhw"},
-            {"name": "sponsor", "target": "g0v-summit-2024-sponsor at googlegroups.com", "document": "https://g0v.hackmd.io/c_mPhOsZQC6FHJiMl3BIhw"},
-            {"name": "ticket", "target": "g0v-summit-2024-ticketing at googlegroups.com", "document": "https://g0v.hackmd.io/c_mPhOsZQC6FHJiMl3BIhw"},
-            {"name": "coc", "target": "g0v-summit-2024-coc at googlegroups.com", "document": "https://g0v.hackmd.io/c_mPhOsZQC6FHJiMl3BIhw"}
+            {"name": "coordinator", "target": "g0v-summit-2026-coordinator at googlegroups.com", "document": "https://g0v.hackmd.io/hsRMnnIMRZyhWE9pw6n6fg#Google-Groups-%E8%A8%AD%E5%AE%9A"},
+            {"name": "sponsorship", "target": "g0v-summit-2026-sponsorship at googlegroups.com", "document": "https://g0v.hackmd.io/c_mPhOsZQC6FHJiMl3BIhw"},
+            {"name": "coc", "target": "g0v-summit-2026-coc at googlegroups.com", "document": "https://g0v.hackmd.io/c_mPhOsZQC6FHJiMl3BIhw"}
         ]
     },
     "repository": "https://github.com/g0v/summit.g0v.tw",
