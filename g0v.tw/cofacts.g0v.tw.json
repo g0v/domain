@@ -1,32 +1,22 @@
 {
-    "domains": {
-        "cofacts.g0v.tw": [
-            [
-                "A",
-                "139.162.87.253"
-            ]
-        ],
-        "zh.cofacts.g0v.tw": [
-            [
-                "CNAME",
-                "cofacts.g0v.tw"
-            ]
-        ],
-        "en.cofacts.g0v.tw": [
-            [
-                "CNAME",
-                "cofacts.g0v.tw"
-            ]
-        ],
-        "cofacts-api.g0v.tw": [
-            [
-                "A",
-                "139.162.87.253"
-            ]
-        ]
-    },
-    "repository": "https://github.com/cofacts/rumors-api",
-    "maintainer": [
-        "@mrorz at g0v-tw slack"
+  "domains": {
+    "cofacts.g0v.tw": [
+      ["CNAME", "301.ronny.tw"],
+      ["TXT", "303 https://cofacts.tw/*"]
+    ],
+    "zh.cofacts.g0v.tw": [
+      ["CNAME", "301.ronny.tw"],
+      ["TXT", "303 https://cofacts.tw/*"]
+    ],
+    "en.cofacts.g0v.tw": [
+      ["CNAME", "301.ronny.tw"],
+      ["TXT", "303 https://en.cofacts.tw/*"]
+    ],
+    "cofacts-api.g0v.tw": [
+      ["CNAME", "301.ronny.tw"],
+      ["TXT", "303 https://api.cofacts.tw/*"]
     ]
+  },
+  "repository": "https://github.com/cofacts/rumors-api",
+  "maintainer": ["@mrorz at g0v-tw slack"]
 }
