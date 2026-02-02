@@ -41,22 +41,22 @@
                 "v=DMARC1; p=none;"
             ]
         ],
+        "pm-bounces.summit.g0v.tw": [
+            [
+                "CNAME",
+                "pm.mtasv.net"
+            ]
+        ],
         "api._domainkey.summit.g0v.tw": [
             [
                 "TXT",
                 "k=rsa;t=s;p=MIGfMA0GCSqGSIb3DQEBAQUAA4GNADCBiQKBgQCbmGbQMzYeMvxwtNQoXN0waGYaciuKx8mtMh5czguT4EZlJXuCt6V+l56mmt3t68FEX5JJ0q4ijG71BGoFRkl87uJi7LrQt1ZZmZCvrEII0YO4mp8sDLXC8g1aUAoi8TJgxq2MJqCaMyj5kAm3Fdy2tzftPCV\/lbdiJqmBnWKjtwIDAQAB"
             ]
         ],
-        "k2._domainkey.summit.g0v.tw": [
+        "20260202125724pm._domainkey.summit.g0v.tw": [
             [
-                "CNAME",
-                "dkim2.mcsv.net"
-            ]
-        ],
-        "k3._domainkey.summit.g0v.tw": [
-            [
-                "CNAME",
-                "dkim3.mcsv.net"
+                "TXT",
+                "k=rsa;p=MIGfMA0GCSqGSIb3DQEBAQUAA4GNADCBiQKBgQCdJmXeRUhYhbhqtbcO1bep1Z6Pv5jEjZTt8zNIvVkgVpqiguAICpy79w433tKHQ7IGBM3RuASeAB15dToXGKeO8y23vVumIOXF0Xd8QFJi0ISHcnrOle1G+1aMrfXquXP4inrJpzMGQYcBJ+UWynGBTTbeIu6BXIUvkmr1rZo2RQIDAQAB"
             ]
         ],
         "r6w5sa4fbgiz.summit.g0v.tw": [
