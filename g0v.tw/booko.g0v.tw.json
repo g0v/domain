@@ -1,0 +1,15 @@
+{
+    "domains": {
+        "booko.g0v.tw": [
+            [
+                "CNAME",
+                "ipaaa.github.io"
+            ]
+        ]
+    },
+    "repository": "https://github.com/ipaaa/TWb00ks",
+    "maintainer": [
+        "ipa"
+    ]
+}
+
