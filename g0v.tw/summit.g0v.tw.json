@@ -69,6 +69,7 @@
     "forwards": {
         "summit.g0v.tw": [
             {"name": "coordinator", "target": "g0v-summit-2026-coordinator at googlegroups.com", "document": "https://g0v.hackmd.io/@summit2026/portal#%E6%AC%8A%E9%99%90%E7%AE%A1%E7%90%86%E6%96%B9%E5%BC%8F"},
+            {"name": "ticket", "target": "g0v-summit-2026-ticket at googlegroups.com", "document": "https://g0v.hackmd.io/@summit2026/portal#%E6%AC%8A%E9%99%90%E7%AE%A1%E7%90%86%E6%96%B9%E5%BC%8F"},
             {"name": "sponsorship", "target": "g0v-summit-2026-sponsorship at googlegroups.com", "document": "https://g0v.hackmd.io/@summit2026/portal#%E6%AC%8A%E9%99%90%E7%AE%A1%E7%90%86%E6%96%B9%E5%BC%8F"},
             {"name": "media", "target": "g0v-summit-2026-media at googlegroups.com", "document": "https://g0v.hackmd.io/@summit2026/portal#%E6%AC%8A%E9%99%90%E7%AE%A1%E7%90%86%E6%96%B9%E5%BC%8F"},
             {"name": "programming", "target": "g0v-summit-2026-programming at googlegroups.com", "document": "https://g0v.hackmd.io/@summit2026/portal#%E6%AC%8A%E9%99%90%E7%AE%A1%E7%90%86%E6%96%B9%E5%BC%8F"},
