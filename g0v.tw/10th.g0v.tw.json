@@ -2,8 +2,8 @@
     "domains": {
         "10th.g0v.tw": [
             [
-                "A",
-                "35.232.238.152"
+                "CNAME",
+                "g0v.github.io"
             ]
         ]
     },
