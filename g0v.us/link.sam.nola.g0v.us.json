@@ -1,0 +1,14 @@
+{
+    "domains": {
+        "link.sam.nola.g0v.us": [
+            [
+                "CNAME",
+                "cname.short.io"
+            ]
+        ]
+    },
+    "repository": "https://docs.google.com/document/d/1KQLnm2nvWvlzYiPZuf4xbhEcB-MY5Rc8tfQhPDuol0U/edit",
+    "maintainer": [
+        "patcon"
+    ]
+}
