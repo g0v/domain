@@ -2,12 +2,12 @@
     "domains": {
         "sch001.g0v.tw": [
             [
-                "A",
-                "34.80.243.157"
+                "CNAME",
+                "g0v.github.io"
             ]
         ]
     },
-    "repository": "https://github.com/plotdb/grantdash",
+    "repository": "https://github.com/g0v/sch001-archive",
     "maintainer": [
         "@SeanGau @zbryikt"
     ]
